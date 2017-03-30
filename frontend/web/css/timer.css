@@ -1,0 +1,28 @@
+.sidebar{
+    width: 26%; float:left;
+      background: #f7f7f7;
+}
+.sidebar .box-sidebar{
+    padding-bottom: 15px;
+    border-bottom: 1px solid #c6c6c6; 
+    margin-bottom: 27px;
+   
+}
+
+#footer{
+    background: #1f5784;
+       border-top: 9px solid #e2e0e1;
+}
+
+#footer a, p{
+     color: #fff;
+}
+
+#footer h3, h4{
+    color: #fff;
+}
+
+#footer .container{
+    margin: 30px auto 0 auto;
+  /*  padding-top: 30px;*/
+}
